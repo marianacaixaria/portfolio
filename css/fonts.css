@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'ABC Diatype';
+    src: url('../fonts/ABCDiatypeVariable.ttf') format('truetype');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABC Diatype';
+    src: url('../fonts/ABCDiatypeVariable.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABC Diatype';
+    src: url('../fonts/ABCDiatypeVariable.ttf') format('truetype');
+    font-weight: 600; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ABC Diatype';
+    src: url('../fonts/ABCDiatypeVariable.ttf') format('truetype');
+    font-weight: 900; /* Black */
+    font-style: normal;
+}
+
