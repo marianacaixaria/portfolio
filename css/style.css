@@ -166,8 +166,8 @@ footer {
     left: 12px;
     z-index: 10;
     pointer-events: none;
-    width: 25%;
-    max-width: 80px;
+    width: 50%;
+    /*max-width: 80px;*/
 }
 
 .img-container.overlay-logo::before {
