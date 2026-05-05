@@ -310,6 +310,10 @@ footer {
 	width: 100%;
 }
 
+.details-description {
+	padding: 0 5px;
+}
+
 .details p, .about-details h3 {
 	margin: 0;
 }
@@ -329,7 +333,7 @@ footer {
 	display: flex;
     align-items: center;
     justify-content: center;
-    width: 5rem;
+    width: 10rem;
 }
 
 #about-info img {
