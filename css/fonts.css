@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'ABC Gaisyr Mono';
+    src: url('../fonts/ABCGaisyrMonoVariable-Trial.woff2') format('woff2-variations'),
+         url('../fonts/ABCGaisyrMonoVariable-Trial.woff') format('woff-variations'),
+         url('../fonts/ABCGaisyrMonoVariable-Trial.ttf') format('truetype-variations');
+    font-weight: 200 900; /* adjust to match the font's actual supported range */
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ABC Gaisyr Semi Mono';
+    src: url('../fonts/ABCGaisyrSemiMono-Book-Trial.woff2') format('woff2-variations'),
+         url('../fonts/ABCGaisyrSemiMono-Book-Trial.woff') format('woff-variations'),
+         url('../fonts/ABCGaisyrSemiMono-Book-Trial.ttf') format('truetype-variations');
+    font-weight: 350; /* adjust to match the font's actual supported range */
+    font-style: normal;
+    font-display: swap;
+}
